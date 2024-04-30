@@ -15,4 +15,8 @@
 - Si vous envoyez 'bonjour', le bot mettra un emoji à votre message
 - Lorsque vous rejoignez le serveur, il y a un message de bienvenue
 - Vous pouvez retrouver la liste des môts bannis dans la variable BLACK_LIST
-# bot_discord_tp
+
+![Première image](image.png)
+![Deuxième image](image2.png)
+![Troisième image](image3.png)
+
